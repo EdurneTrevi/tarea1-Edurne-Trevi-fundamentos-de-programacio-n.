@@ -1,0 +1,3 @@
+//Modifica el anterior script de manera que si los números que se proporcionan
+son iguales deberá pedir de nuevo el segundo hasta que el usuario introduzca
+uno diferente al primero.
