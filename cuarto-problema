@@ -1,0 +1,6 @@
+//Escribe un script que simule el lanzamiento de dos dados. Haz uso de la
+función Math.Random para obtener números aleatorios entre 1 y 6 para cada
+uno de los lanzamientos de los dados. Suma el resultado de lanzar dos dados
+y añade en un array dicha suma, repitiendo 6.000 veces todo este proceso. A
+continuación, calcula la media de todos los valores que se han añadido al
+vector y muéstrala por consola
