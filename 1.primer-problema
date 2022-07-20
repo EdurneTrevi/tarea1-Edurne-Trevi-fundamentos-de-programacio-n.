@@ -4,3 +4,12 @@ devuelva por consola el mayor de ellos.
 //Si el primer numero es mayor que el segundo numero, mostrar el primer numero 
 // Por lo contrario, mostrar el segundo
 //en caso de empate, volver a preguntar
+
+
+
+let firstNumber = parseInt(prompt("Escribe un número"));
+let secondNumber = parseInt(prompt("Escribe un segundo número"));
+
+if (firstNumber > secondNumber) console.log (firstNumber);
+else if (secondNumber > firstNumber) console.log (secondNumber);
+
