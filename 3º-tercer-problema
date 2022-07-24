@@ -1,2 +1,11 @@
-//Dado un vector de números, escribe un programa que te devuelva por
-consola el total de números impares y el total de números mayores que 100.
+
+/*Dado un vector de números, escribe un programa que te devuelva por
+consola el total de números impares y el total de números mayores que 100.*/
+
+let numbers = [1, 5, 23, 4, 120, 45, 78, 8, 800, 9, 10, 110, 3.4, 10.1, 84, 6]
+let impar = [];
+
+
+for (let i= 0; i < numbers.length; i++) {
+
+}
